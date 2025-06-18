@@ -1,4 +1,4 @@
--Luhn's algorithm
+- Luhn's algorithm
 - The Collatz Conjecture (halfing)
 - Find the Nth prime number
 - Sort the list by word length (shortest first), then alphabetically for words of the same length.
